@@ -17,7 +17,7 @@ namespace Pescador
             sobra = (peso - 50) * 4;
             Console.WriteLine(sobra);
 
-
+    
 
 
 

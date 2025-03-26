@@ -1,0 +1,7 @@
+C:\Users\danilo.drebelato\source\repos\LogicaComCsharp\LogicaComCsharp\Soma, Divisao, subtração, multiplicação\Soma, Divisao, subtração, multiplicação\bin\Debug\Soma, Divisao, subtração, multiplicação.exe.config
+C:\Users\danilo.drebelato\source\repos\LogicaComCsharp\LogicaComCsharp\Soma, Divisao, subtração, multiplicação\Soma, Divisao, subtração, multiplicação\bin\Debug\Soma, Divisao, subtração, multiplicação.exe
+C:\Users\danilo.drebelato\source\repos\LogicaComCsharp\LogicaComCsharp\Soma, Divisao, subtração, multiplicação\Soma, Divisao, subtração, multiplicação\bin\Debug\Soma, Divisao, subtração, multiplicação.pdb
+C:\Users\danilo.drebelato\source\repos\LogicaComCsharp\LogicaComCsharp\Soma, Divisao, subtração, multiplicação\Soma, Divisao, subtração, multiplicação\obj\Debug\Soma, Divisao, subtração, multiplicação.csproj.AssemblyReference.cache
+C:\Users\danilo.drebelato\source\repos\LogicaComCsharp\LogicaComCsharp\Soma, Divisao, subtração, multiplicação\Soma, Divisao, subtração, multiplicação\obj\Debug\Soma, Divisao, subtração, multiplicação.csproj.CoreCompileInputs.cache
+C:\Users\danilo.drebelato\source\repos\LogicaComCsharp\LogicaComCsharp\Soma, Divisao, subtração, multiplicação\Soma, Divisao, subtração, multiplicação\obj\Debug\Soma, Divisao, subtração, multiplicação.exe
+C:\Users\danilo.drebelato\source\repos\LogicaComCsharp\LogicaComCsharp\Soma, Divisao, subtração, multiplicação\Soma, Divisao, subtração, multiplicação\obj\Debug\Soma, Divisao, subtração, multiplicação.pdb

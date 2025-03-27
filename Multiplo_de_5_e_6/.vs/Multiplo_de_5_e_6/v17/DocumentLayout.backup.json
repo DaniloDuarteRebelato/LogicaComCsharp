@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danilo.drebelato\\source\\repos\\LogicaComCsharp\\LogicaComCsharp\\Multiplo_de_5_e_6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8195670A-1029-4886-A60F-85BB5F6E5501}|Multiplo_de_5_e_6\\Multiplo_de_5_e_6.csproj|c:\\users\\danilo.drebelato\\source\\repos\\logicacomcsharp\\logicacomcsharp\\multiplo_de_5_e_6\\multiplo_de_5_e_6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8195670A-1029-4886-A60F-85BB5F6E5501}|Multiplo_de_5_e_6\\Multiplo_de_5_e_6.csproj|solutionrelative:multiplo_de_5_e_6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danilo.drebelato\\source\\repos\\LogicaComCsharp\\LogicaComCsharp\\Multiplo_de_5_e_6\\Multiplo_de_5_e_6\\Program.cs",
+              "RelativeDocumentMoniker": "Multiplo_de_5_e_6\\Program.cs",
+              "ToolTip": "C:\\Users\\danilo.drebelato\\source\\repos\\LogicaComCsharp\\LogicaComCsharp\\Multiplo_de_5_e_6\\Multiplo_de_5_e_6\\Program.cs",
+              "RelativeToolTip": "Multiplo_de_5_e_6\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T14:11:04.81Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

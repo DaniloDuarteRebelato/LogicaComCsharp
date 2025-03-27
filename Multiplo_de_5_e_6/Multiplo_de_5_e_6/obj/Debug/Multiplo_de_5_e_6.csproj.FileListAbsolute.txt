@@ -1,0 +1,7 @@
+C:\Users\danilo.drebelato\source\repos\LogicaComCsharp\LogicaComCsharp\Multiplo_de_5_e_6\Multiplo_de_5_e_6\bin\Debug\Multiplo_de_5_e_6.exe.config
+C:\Users\danilo.drebelato\source\repos\LogicaComCsharp\LogicaComCsharp\Multiplo_de_5_e_6\Multiplo_de_5_e_6\bin\Debug\Multiplo_de_5_e_6.exe
+C:\Users\danilo.drebelato\source\repos\LogicaComCsharp\LogicaComCsharp\Multiplo_de_5_e_6\Multiplo_de_5_e_6\bin\Debug\Multiplo_de_5_e_6.pdb
+C:\Users\danilo.drebelato\source\repos\LogicaComCsharp\LogicaComCsharp\Multiplo_de_5_e_6\Multiplo_de_5_e_6\obj\Debug\Multiplo_de_5_e_6.csproj.AssemblyReference.cache
+C:\Users\danilo.drebelato\source\repos\LogicaComCsharp\LogicaComCsharp\Multiplo_de_5_e_6\Multiplo_de_5_e_6\obj\Debug\Multiplo_de_5_e_6.csproj.CoreCompileInputs.cache
+C:\Users\danilo.drebelato\source\repos\LogicaComCsharp\LogicaComCsharp\Multiplo_de_5_e_6\Multiplo_de_5_e_6\obj\Debug\Multiplo_de_5_e_6.exe
+C:\Users\danilo.drebelato\source\repos\LogicaComCsharp\LogicaComCsharp\Multiplo_de_5_e_6\Multiplo_de_5_e_6\obj\Debug\Multiplo_de_5_e_6.pdb

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danilo.drebelato\\source\\repos\\LogicaComCsharp\\LogicaComCsharp\\Idade_para_dirigir\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7EE55C1-759B-43F4-B48C-0FC8CACA8C57}|Idade_para_dirigir\\Idade_para_dirigir.csproj|c:\\users\\danilo.drebelato\\source\\repos\\logicacomcsharp\\logicacomcsharp\\idade_para_dirigir\\idade_para_dirigir\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7EE55C1-759B-43F4-B48C-0FC8CACA8C57}|Idade_para_dirigir\\Idade_para_dirigir.csproj|solutionrelative:idade_para_dirigir\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danilo.drebelato\\source\\repos\\LogicaComCsharp\\LogicaComCsharp\\Idade_para_dirigir\\Idade_para_dirigir\\Program.cs",
+              "RelativeDocumentMoniker": "Idade_para_dirigir\\Program.cs",
+              "ToolTip": "C:\\Users\\danilo.drebelato\\source\\repos\\LogicaComCsharp\\LogicaComCsharp\\Idade_para_dirigir\\Idade_para_dirigir\\Program.cs",
+              "RelativeToolTip": "Idade_para_dirigir\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T14:36:54.742Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

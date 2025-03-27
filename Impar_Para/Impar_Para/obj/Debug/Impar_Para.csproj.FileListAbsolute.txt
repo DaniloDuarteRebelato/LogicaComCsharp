@@ -1,0 +1,7 @@
+C:\Users\danilo.drebelato\source\repos\LogicaComCsharp\LogicaComCsharp\Impar_Para\Impar_Para\bin\Debug\Impar_Para.exe.config
+C:\Users\danilo.drebelato\source\repos\LogicaComCsharp\LogicaComCsharp\Impar_Para\Impar_Para\bin\Debug\Impar_Para.exe
+C:\Users\danilo.drebelato\source\repos\LogicaComCsharp\LogicaComCsharp\Impar_Para\Impar_Para\bin\Debug\Impar_Para.pdb
+C:\Users\danilo.drebelato\source\repos\LogicaComCsharp\LogicaComCsharp\Impar_Para\Impar_Para\obj\Debug\Impar_Para.csproj.AssemblyReference.cache
+C:\Users\danilo.drebelato\source\repos\LogicaComCsharp\LogicaComCsharp\Impar_Para\Impar_Para\obj\Debug\Impar_Para.csproj.CoreCompileInputs.cache
+C:\Users\danilo.drebelato\source\repos\LogicaComCsharp\LogicaComCsharp\Impar_Para\Impar_Para\obj\Debug\Impar_Para.exe
+C:\Users\danilo.drebelato\source\repos\LogicaComCsharp\LogicaComCsharp\Impar_Para\Impar_Para\obj\Debug\Impar_Para.pdb

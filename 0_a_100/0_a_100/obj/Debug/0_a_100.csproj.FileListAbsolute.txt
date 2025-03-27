@@ -1,0 +1,7 @@
+C:\Users\danilo.drebelato\source\repos\LogicaComCsharp\LogicaComCsharp\0_a_100\0_a_100\bin\Debug\0_a_100.exe.config
+C:\Users\danilo.drebelato\source\repos\LogicaComCsharp\LogicaComCsharp\0_a_100\0_a_100\bin\Debug\0_a_100.exe
+C:\Users\danilo.drebelato\source\repos\LogicaComCsharp\LogicaComCsharp\0_a_100\0_a_100\bin\Debug\0_a_100.pdb
+C:\Users\danilo.drebelato\source\repos\LogicaComCsharp\LogicaComCsharp\0_a_100\0_a_100\obj\Debug\0_a_100.csproj.AssemblyReference.cache
+C:\Users\danilo.drebelato\source\repos\LogicaComCsharp\LogicaComCsharp\0_a_100\0_a_100\obj\Debug\0_a_100.csproj.CoreCompileInputs.cache
+C:\Users\danilo.drebelato\source\repos\LogicaComCsharp\LogicaComCsharp\0_a_100\0_a_100\obj\Debug\0_a_100.exe
+C:\Users\danilo.drebelato\source\repos\LogicaComCsharp\LogicaComCsharp\0_a_100\0_a_100\obj\Debug\0_a_100.pdb

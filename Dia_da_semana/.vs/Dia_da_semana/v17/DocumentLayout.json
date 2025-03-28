@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danilo.drebelato\\source\\repos\\LogicaComCsharp\\LogicaComCsharp\\Dia_da_semana\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{208FFCB4-81FE-45C3-9C60-8DCAE6A7A31E}|Dia_da_semana\\Dia_da_semana.csproj|c:\\users\\danilo.drebelato\\source\\repos\\logicacomcsharp\\logicacomcsharp\\dia_da_semana\\dia_da_semana\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{208FFCB4-81FE-45C3-9C60-8DCAE6A7A31E}|Dia_da_semana\\Dia_da_semana.csproj|solutionrelative:dia_da_semana\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danilo.drebelato\\source\\repos\\LogicaComCsharp\\LogicaComCsharp\\Dia_da_semana\\Dia_da_semana\\Program.cs",
+              "RelativeDocumentMoniker": "Dia_da_semana\\Program.cs",
+              "ToolTip": "C:\\Users\\danilo.drebelato\\source\\repos\\LogicaComCsharp\\LogicaComCsharp\\Dia_da_semana\\Dia_da_semana\\Program.cs",
+              "RelativeToolTip": "Dia_da_semana\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T11:48:06.802Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

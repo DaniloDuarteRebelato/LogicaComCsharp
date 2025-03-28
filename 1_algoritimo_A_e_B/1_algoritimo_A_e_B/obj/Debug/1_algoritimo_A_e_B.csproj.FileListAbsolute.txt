@@ -1,0 +1,7 @@
+C:\Users\danilo.drebelato\source\repos\LogicaComCsharp\LogicaComCsharp\1_algoritimo_A_e_B\1_algoritimo_A_e_B\bin\Debug\1_algoritimo_A_e_B.exe.config
+C:\Users\danilo.drebelato\source\repos\LogicaComCsharp\LogicaComCsharp\1_algoritimo_A_e_B\1_algoritimo_A_e_B\bin\Debug\1_algoritimo_A_e_B.exe
+C:\Users\danilo.drebelato\source\repos\LogicaComCsharp\LogicaComCsharp\1_algoritimo_A_e_B\1_algoritimo_A_e_B\bin\Debug\1_algoritimo_A_e_B.pdb
+C:\Users\danilo.drebelato\source\repos\LogicaComCsharp\LogicaComCsharp\1_algoritimo_A_e_B\1_algoritimo_A_e_B\obj\Debug\1_algoritimo_A_e_B.csproj.AssemblyReference.cache
+C:\Users\danilo.drebelato\source\repos\LogicaComCsharp\LogicaComCsharp\1_algoritimo_A_e_B\1_algoritimo_A_e_B\obj\Debug\1_algoritimo_A_e_B.csproj.CoreCompileInputs.cache
+C:\Users\danilo.drebelato\source\repos\LogicaComCsharp\LogicaComCsharp\1_algoritimo_A_e_B\1_algoritimo_A_e_B\obj\Debug\1_algoritimo_A_e_B.exe
+C:\Users\danilo.drebelato\source\repos\LogicaComCsharp\LogicaComCsharp\1_algoritimo_A_e_B\1_algoritimo_A_e_B\obj\Debug\1_algoritimo_A_e_B.pdb

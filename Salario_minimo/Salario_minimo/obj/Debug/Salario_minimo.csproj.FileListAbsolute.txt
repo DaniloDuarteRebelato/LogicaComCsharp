@@ -1,0 +1,7 @@
+C:\Users\danilo.drebelato\source\repos\LogicaComCsharp\LogicaComCsharp\Salario_minimo\Salario_minimo\bin\Debug\Salario_minimo.exe.config
+C:\Users\danilo.drebelato\source\repos\LogicaComCsharp\LogicaComCsharp\Salario_minimo\Salario_minimo\bin\Debug\Salario_minimo.exe
+C:\Users\danilo.drebelato\source\repos\LogicaComCsharp\LogicaComCsharp\Salario_minimo\Salario_minimo\bin\Debug\Salario_minimo.pdb
+C:\Users\danilo.drebelato\source\repos\LogicaComCsharp\LogicaComCsharp\Salario_minimo\Salario_minimo\obj\Debug\Salario_minimo.csproj.AssemblyReference.cache
+C:\Users\danilo.drebelato\source\repos\LogicaComCsharp\LogicaComCsharp\Salario_minimo\Salario_minimo\obj\Debug\Salario_minimo.csproj.CoreCompileInputs.cache
+C:\Users\danilo.drebelato\source\repos\LogicaComCsharp\LogicaComCsharp\Salario_minimo\Salario_minimo\obj\Debug\Salario_minimo.exe
+C:\Users\danilo.drebelato\source\repos\LogicaComCsharp\LogicaComCsharp\Salario_minimo\Salario_minimo\obj\Debug\Salario_minimo.pdb

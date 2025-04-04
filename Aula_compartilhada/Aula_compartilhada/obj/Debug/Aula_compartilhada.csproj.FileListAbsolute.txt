@@ -1,0 +1,7 @@
+C:\Users\danilo.drebelato\source\repos\LogicaComCsharp\LogicaComCsharp\Aula_compartilhada\Aula_compartilhada\bin\Debug\Aula_compartilhada.exe.config
+C:\Users\danilo.drebelato\source\repos\LogicaComCsharp\LogicaComCsharp\Aula_compartilhada\Aula_compartilhada\bin\Debug\Aula_compartilhada.exe
+C:\Users\danilo.drebelato\source\repos\LogicaComCsharp\LogicaComCsharp\Aula_compartilhada\Aula_compartilhada\bin\Debug\Aula_compartilhada.pdb
+C:\Users\danilo.drebelato\source\repos\LogicaComCsharp\LogicaComCsharp\Aula_compartilhada\Aula_compartilhada\obj\Debug\Aula_compartilhada.csproj.AssemblyReference.cache
+C:\Users\danilo.drebelato\source\repos\LogicaComCsharp\LogicaComCsharp\Aula_compartilhada\Aula_compartilhada\obj\Debug\Aula_compartilhada.csproj.CoreCompileInputs.cache
+C:\Users\danilo.drebelato\source\repos\LogicaComCsharp\LogicaComCsharp\Aula_compartilhada\Aula_compartilhada\obj\Debug\Aula_compartilhada.exe
+C:\Users\danilo.drebelato\source\repos\LogicaComCsharp\LogicaComCsharp\Aula_compartilhada\Aula_compartilhada\obj\Debug\Aula_compartilhada.pdb

@@ -1,0 +1,7 @@
+C:\Users\danilo.drebelato\source\repos\LogicaComCsharp\LogicaComCsharp\Menu\Menu\bin\Debug\Menu.exe.config
+C:\Users\danilo.drebelato\source\repos\LogicaComCsharp\LogicaComCsharp\Menu\Menu\bin\Debug\Menu.exe
+C:\Users\danilo.drebelato\source\repos\LogicaComCsharp\LogicaComCsharp\Menu\Menu\bin\Debug\Menu.pdb
+C:\Users\danilo.drebelato\source\repos\LogicaComCsharp\LogicaComCsharp\Menu\Menu\obj\Debug\Menu.csproj.AssemblyReference.cache
+C:\Users\danilo.drebelato\source\repos\LogicaComCsharp\LogicaComCsharp\Menu\Menu\obj\Debug\Menu.csproj.CoreCompileInputs.cache
+C:\Users\danilo.drebelato\source\repos\LogicaComCsharp\LogicaComCsharp\Menu\Menu\obj\Debug\Menu.exe
+C:\Users\danilo.drebelato\source\repos\LogicaComCsharp\LogicaComCsharp\Menu\Menu\obj\Debug\Menu.pdb

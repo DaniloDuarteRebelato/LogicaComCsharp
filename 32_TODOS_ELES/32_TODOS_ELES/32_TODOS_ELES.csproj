@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{9A839FEC-B540-438C-9C4C-09E1481E8DE9}</ProjectGuid>
+    <ProjectGuid>{D2B12CFE-653E-420F-8EB6-86DC7485ED26}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Menu</RootNamespace>
-    <AssemblyName>Menu</AssemblyName>
+    <RootNamespace>_32_TODOS_ELES</RootNamespace>
+    <AssemblyName>32_TODOS_ELES</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,9 +43,29 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Cadastro_cliente.cs" />
+    <Compile Include="AlgoritimoAeB.cs" />
+    <Compile Include="Bissexto.cs" />
+    <Compile Include="CalculoDeIdade.cs" />
+    <Compile Include="CasaDeShow.cs" />
+    <Compile Include="Desconto.cs" />
+    <Compile Include="DiaDaSemana.cs" />
+    <Compile Include="IdadeDirigir.cs" />
+    <Compile Include="IMC.cs" />
+    <Compile Include="ImparPar.cs" />
+    <Compile Include="Ingressos.cs" />
+    <Compile Include="Keno.cs" />
+    <Compile Include="MaiorDeIdade.cs" />
+    <Compile Include="MaioridadePenal.cs" />
+    <Compile Include="Menornumero.cs" />
+    <Compile Include="MultiploDe5e6.cs" />
+    <Compile Include="Média.cs" />
+    <Compile Include="MédiaBimestral.cs" />
+    <Compile Include="NegativoPositivoOuZero.cs" />
+    <Compile Include="PixEDinheiro.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Temperatura.cs" />
+    <Compile Include="Zero.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

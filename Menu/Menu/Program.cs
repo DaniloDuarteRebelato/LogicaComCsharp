@@ -12,19 +12,19 @@ namespace Menu
         {
             //Crie um sistema de menu em cada opção cadastre um item, controlando o acesso do teclado.
 
-            int opcao = 1;
-            while (opcao != 0)
-            {
-                Console.Clear();
+                int opcao = 1;
+                while (opcao != 0)
+                {
+                    Console.Clear();
 
-                Console.ForegroundColor = ConsoleColor.Blue;
-                Console.WriteLine(@"
-███╗░░░███╗███████╗███╗░░██╗██╗░░░██╗
-████╗░████║██╔════╝████╗░██║██║░░░██║
-██╔████╔██║█████╗░░██╔██╗██║██║░░░██║
-██║╚██╔╝██║██╔══╝░░██║╚████║██║░░░██║
-██║░╚═╝░██║███████╗██║░╚███║╚██████╔╝
-╚═╝░░░░░╚═╝╚══════╝╚═╝░░╚══╝░╚═════╝░");
+                    Console.ForegroundColor = ConsoleColor.Blue;
+                    Console.WriteLine(@"
+    ███╗░░░███╗███████╗███╗░░██╗██╗░░░██╗
+    ████╗░████║██╔════╝████╗░██║██║░░░██║
+    ██╔████╔██║█████╗░░██╔██╗██║██║░░░██║
+    ██║╚██╔╝██║██╔══╝░░██║╚████║██║░░░██║
+    ██║░╚═╝░██║███████╗██║░╚███║╚██████╔╝
+    ╚═╝░░░░░╚═╝╚══════╝╚═╝░░╚══╝░╚═════╝░");
 
                 Console.ResetColor();
                 Console.WriteLine("\n Menu de Cadastro\n");
@@ -50,7 +50,7 @@ namespace Menu
                 {
                     case 1:
 
-                        CadastrarCliente();
+                        Cadastro_cliente.CadastrarCliente();
                         break;
                     case 2:
 
@@ -98,13 +98,7 @@ namespace Menu
             }
         }
 
-    static void CadastrarCliente()
-        {
-            Console.WriteLine("\nCadastro Clientes");
-            Console.WriteLine("Digite o nome do cliente: ");
-            string nome = Console.ReadLine();
-            Console.WriteLine($"Cliente {nome} cadastrado com sucesso!");
-        }
+    
 
         static void CadastrarFornecedor()
         {

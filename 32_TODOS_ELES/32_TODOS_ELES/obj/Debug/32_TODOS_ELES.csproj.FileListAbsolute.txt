@@ -1,0 +1,2 @@
+C:\Users\danilo.drebelato\source\repos\LogicaComCsharp\LogicaComCsharp\32_TODOS_ELES\32_TODOS_ELES\obj\Debug\32_TODOS_ELES.csproj.AssemblyReference.cache
+C:\Users\danilo.drebelato\source\repos\LogicaComCsharp\LogicaComCsharp\32_TODOS_ELES\32_TODOS_ELES\obj\Debug\32_TODOS_ELES.csproj.CoreCompileInputs.cache

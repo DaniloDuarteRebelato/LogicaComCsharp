@@ -47,6 +47,7 @@
     <Compile Include="Bissexto.cs" />
     <Compile Include="CalculoDeIdade.cs" />
     <Compile Include="CasaDeShow.cs" />
+    <Compile Include="de 0 a 100.cs" />
     <Compile Include="Desconto.cs" />
     <Compile Include="DiaDaSemana.cs" />
     <Compile Include="IdadeDirigir.cs" />
@@ -61,10 +62,20 @@
     <Compile Include="Média.cs" />
     <Compile Include="MédiaBimestral.cs" />
     <Compile Include="NegativoPositivoOuZero.cs" />
+    <Compile Include="NumerosIguais.cs" />
+    <Compile Include="ParesEnquanto.cs" />
+    <Compile Include="Pecas.cs" />
+    <Compile Include="Pescador.cs" />
     <Compile Include="PixEDinheiro.cs" />
+    <Compile Include="PosicaoDemNumero.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SalarioMinimo.cs" />
+    <Compile Include="Senha.cs" />
     <Compile Include="Temperatura.cs" />
+    <Compile Include="TodosMatematica.cs" />
+    <Compile Include="Troco.cs" />
+    <Compile Include="ValidarUmTriangulo.cs" />
     <Compile Include="Zero.cs" />
   </ItemGroup>
   <ItemGroup>

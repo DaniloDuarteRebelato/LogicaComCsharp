@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\danilo.drebelato\\source\\repos\\LogicaComCsharp\\LogicaComCsharp\\Pescador\\",
+  "WorkspaceRootPath": "C:\\Users\\danilo.drebelato\\Documents\\GitHub\\LogicaComCsharp\\Pescador\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BA52BFC0-95B1-4C4C-9ADB-46BCF6187313}|Pescador\\Pescador.csproj|c:\\users\\danilo.drebelato\\source\\repos\\logicacomcsharp\\logicacomcsharp\\pescador\\pescador\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BA52BFC0-95B1-4C4C-9ADB-46BCF6187313}|Pescador\\Pescador.csproj|c:\\users\\danilo.drebelato\\documents\\github\\logicacomcsharp\\pescador\\pescador\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BA52BFC0-95B1-4C4C-9ADB-46BCF6187313}|Pescador\\Pescador.csproj|solutionrelative:pescador\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\danilo.drebelato\\source\\repos\\LogicaComCsharp\\LogicaComCsharp\\Pescador\\Pescador\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\danilo.drebelato\\Documents\\GitHub\\LogicaComCsharp\\Pescador\\Pescador\\Program.cs",
               "RelativeDocumentMoniker": "Pescador\\Program.cs",
-              "ToolTip": "C:\\Users\\danilo.drebelato\\source\\repos\\LogicaComCsharp\\LogicaComCsharp\\Pescador\\Pescador\\Program.cs",
+              "ToolTip": "C:\\Users\\danilo.drebelato\\Documents\\GitHub\\LogicaComCsharp\\Pescador\\Pescador\\Program.cs",
               "RelativeToolTip": "Pescador\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwB8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-26T14:13:38.241Z",
               "EditorCaption": ""

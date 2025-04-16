@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\danilo.drebelato\\source\\repos\\LogicaComCsharp\\LogicaComCsharp\\Senha\\",
+  "WorkspaceRootPath": "C:\\Users\\danilo.drebelato\\Documents\\GitHub\\LogicaComCsharp\\Senha\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3A1ACDF4-1858-4F3D-B019-3920A990ABAE}|Senha\\Senha.csproj|c:\\users\\danilo.drebelato\\source\\repos\\logicacomcsharp\\logicacomcsharp\\senha\\senha\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3A1ACDF4-1858-4F3D-B019-3920A990ABAE}|Senha\\Senha.csproj|c:\\users\\danilo.drebelato\\documents\\github\\logicacomcsharp\\senha\\senha\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3A1ACDF4-1858-4F3D-B019-3920A990ABAE}|Senha\\Senha.csproj|solutionrelative:senha\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\danilo.drebelato\\source\\repos\\LogicaComCsharp\\LogicaComCsharp\\Senha\\Senha\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\danilo.drebelato\\Documents\\GitHub\\LogicaComCsharp\\Senha\\Senha\\Program.cs",
               "RelativeDocumentMoniker": "Senha\\Program.cs",
-              "ToolTip": "C:\\Users\\danilo.drebelato\\source\\repos\\LogicaComCsharp\\LogicaComCsharp\\Senha\\Senha\\Program.cs",
+              "ToolTip": "C:\\Users\\danilo.drebelato\\Documents\\GitHub\\LogicaComCsharp\\Senha\\Senha\\Program.cs",
               "RelativeToolTip": "Senha\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAuwCEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAAAYwDEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-28T12:33:23.483Z",
               "EditorCaption": ""

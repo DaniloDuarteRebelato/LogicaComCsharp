@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{D2B12CFE-653E-420F-8EB6-86DC7485ED26}|32_TODOS_ELES\\32_TODOS_ELES.csproj|solutionrelative:32_todos_eles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D2B12CFE-653E-420F-8EB6-86DC7485ED26}|32_TODOS_ELES\\32_TODOS_ELES.csproj|c:\\users\\danilo.drebelato\\source\\repos\\logicacomcsharp\\logicacomcsharp\\32_todos_eles\\32_todos_eles\\negativopositivoouzero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2B12CFE-653E-420F-8EB6-86DC7485ED26}|32_TODOS_ELES\\32_TODOS_ELES.csproj|solutionrelative:32_todos_eles\\negativopositivoouzero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D2B12CFE-653E-420F-8EB6-86DC7485ED26}|32_TODOS_ELES\\32_TODOS_ELES.csproj|c:\\users\\danilo.drebelato\\source\\repos\\logicacomcsharp\\logicacomcsharp\\32_todos_eles\\32_todos_eles\\multiplode5e6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D2B12CFE-653E-420F-8EB6-86DC7485ED26}|32_TODOS_ELES\\32_TODOS_ELES.csproj|solutionrelative:32_todos_eles\\multiplode5e6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -104,7 +108,7 @@
               "RelativeDocumentMoniker": "32_TODOS_ELES\\Program.cs",
               "ToolTip": "C:\\Users\\danilo.drebelato\\source\\repos\\LogicaComCsharp\\LogicaComCsharp\\32_TODOS_ELES\\32_TODOS_ELES\\Program.cs",
               "RelativeToolTip": "32_TODOS_ELES\\Program.cs",
-              "ViewState": "AgIAAIMAAAAAAAAAAAAkwJ4AAABHAAAAAAAAAA==",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAkwKYAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-11T11:24:47.02Z",
               "IsPinned": true,
@@ -113,19 +117,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "NegativoPositivoOuZero.cs",
+              "DocumentMoniker": "C:\\Users\\danilo.drebelato\\source\\repos\\LogicaComCsharp\\LogicaComCsharp\\32_TODOS_ELES\\32_TODOS_ELES\\NegativoPositivoOuZero.cs",
+              "RelativeDocumentMoniker": "32_TODOS_ELES\\NegativoPositivoOuZero.cs",
+              "ToolTip": "C:\\Users\\danilo.drebelato\\source\\repos\\LogicaComCsharp\\LogicaComCsharp\\32_TODOS_ELES\\32_TODOS_ELES\\NegativoPositivoOuZero.cs",
+              "RelativeToolTip": "32_TODOS_ELES\\NegativoPositivoOuZero.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T14:35:33.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "MultiploDe5e6.cs",
               "DocumentMoniker": "C:\\Users\\danilo.drebelato\\source\\repos\\LogicaComCsharp\\LogicaComCsharp\\32_TODOS_ELES\\32_TODOS_ELES\\MultiploDe5e6.cs",
               "RelativeDocumentMoniker": "32_TODOS_ELES\\MultiploDe5e6.cs",
               "ToolTip": "C:\\Users\\danilo.drebelato\\source\\repos\\LogicaComCsharp\\LogicaComCsharp\\32_TODOS_ELES\\32_TODOS_ELES\\MultiploDe5e6.cs",
               "RelativeToolTip": "32_TODOS_ELES\\MultiploDe5e6.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAYwAwAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAkwB8AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-11T14:33:25.516Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Menornumero.cs",
               "DocumentMoniker": "C:\\Users\\danilo.drebelato\\source\\repos\\LogicaComCsharp\\LogicaComCsharp\\32_TODOS_ELES\\32_TODOS_ELES\\Menornumero.cs",
               "RelativeDocumentMoniker": "32_TODOS_ELES\\Menornumero.cs",
@@ -138,7 +155,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "M\u00E9diaBimestral.cs",
               "DocumentMoniker": "C:\\Users\\danilo.drebelato\\source\\repos\\LogicaComCsharp\\LogicaComCsharp\\32_TODOS_ELES\\32_TODOS_ELES\\M\u00E9diaBimestral.cs",
               "RelativeDocumentMoniker": "32_TODOS_ELES\\M\u00E9diaBimestral.cs",
@@ -151,7 +168,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "M\u00E9dia.cs",
               "DocumentMoniker": "C:\\Users\\danilo.drebelato\\source\\repos\\LogicaComCsharp\\LogicaComCsharp\\32_TODOS_ELES\\32_TODOS_ELES\\M\u00E9dia.cs",
               "RelativeDocumentMoniker": "32_TODOS_ELES\\M\u00E9dia.cs",
@@ -164,7 +181,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "MaioridadePenal.cs",
               "DocumentMoniker": "C:\\Users\\danilo.drebelato\\source\\repos\\LogicaComCsharp\\LogicaComCsharp\\32_TODOS_ELES\\32_TODOS_ELES\\MaioridadePenal.cs",
               "RelativeDocumentMoniker": "32_TODOS_ELES\\MaioridadePenal.cs",
@@ -177,7 +194,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "MaiorDeIdade.cs",
               "DocumentMoniker": "C:\\Users\\danilo.drebelato\\source\\repos\\LogicaComCsharp\\LogicaComCsharp\\32_TODOS_ELES\\32_TODOS_ELES\\MaiorDeIdade.cs",
               "RelativeDocumentMoniker": "32_TODOS_ELES\\MaiorDeIdade.cs",
@@ -190,7 +207,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Keno.cs",
               "DocumentMoniker": "C:\\Users\\danilo.drebelato\\source\\repos\\LogicaComCsharp\\LogicaComCsharp\\32_TODOS_ELES\\32_TODOS_ELES\\Keno.cs",
               "RelativeDocumentMoniker": "32_TODOS_ELES\\Keno.cs",
@@ -203,7 +220,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "ImparPar.cs",
               "DocumentMoniker": "C:\\Users\\danilo.drebelato\\source\\repos\\LogicaComCsharp\\LogicaComCsharp\\32_TODOS_ELES\\32_TODOS_ELES\\ImparPar.cs",
               "RelativeDocumentMoniker": "32_TODOS_ELES\\ImparPar.cs",
@@ -216,7 +233,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "IMC.cs",
               "DocumentMoniker": "C:\\Users\\danilo.drebelato\\source\\repos\\LogicaComCsharp\\LogicaComCsharp\\32_TODOS_ELES\\32_TODOS_ELES\\IMC.cs",
               "RelativeDocumentMoniker": "32_TODOS_ELES\\IMC.cs",
@@ -229,7 +246,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "IdadeDirigir.cs",
               "DocumentMoniker": "C:\\Users\\danilo.drebelato\\source\\repos\\LogicaComCsharp\\LogicaComCsharp\\32_TODOS_ELES\\32_TODOS_ELES\\IdadeDirigir.cs",
               "RelativeDocumentMoniker": "32_TODOS_ELES\\IdadeDirigir.cs",
@@ -242,7 +259,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "PixEDinheiro.cs",
               "DocumentMoniker": "C:\\Users\\danilo.drebelato\\source\\repos\\LogicaComCsharp\\LogicaComCsharp\\32_TODOS_ELES\\32_TODOS_ELES\\PixEDinheiro.cs",
               "RelativeDocumentMoniker": "32_TODOS_ELES\\PixEDinheiro.cs",
@@ -255,7 +272,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Zero.cs",
               "DocumentMoniker": "C:\\Users\\danilo.drebelato\\source\\repos\\LogicaComCsharp\\LogicaComCsharp\\32_TODOS_ELES\\32_TODOS_ELES\\Zero.cs",
               "RelativeDocumentMoniker": "32_TODOS_ELES\\Zero.cs",
@@ -268,7 +285,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "DiaDaSemana.cs",
               "DocumentMoniker": "C:\\Users\\danilo.drebelato\\source\\repos\\LogicaComCsharp\\LogicaComCsharp\\32_TODOS_ELES\\32_TODOS_ELES\\DiaDaSemana.cs",
               "RelativeDocumentMoniker": "32_TODOS_ELES\\DiaDaSemana.cs",
@@ -281,7 +298,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Desconto.cs",
               "DocumentMoniker": "C:\\Users\\danilo.drebelato\\source\\repos\\LogicaComCsharp\\LogicaComCsharp\\32_TODOS_ELES\\32_TODOS_ELES\\Desconto.cs",
               "RelativeDocumentMoniker": "32_TODOS_ELES\\Desconto.cs",
@@ -294,7 +311,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Ingressos.cs",
               "DocumentMoniker": "C:\\Users\\danilo.drebelato\\source\\repos\\LogicaComCsharp\\LogicaComCsharp\\32_TODOS_ELES\\32_TODOS_ELES\\Ingressos.cs",
               "RelativeDocumentMoniker": "32_TODOS_ELES\\Ingressos.cs",
@@ -307,7 +324,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "Temperatura.cs",
               "DocumentMoniker": "C:\\Users\\danilo.drebelato\\source\\repos\\LogicaComCsharp\\LogicaComCsharp\\32_TODOS_ELES\\32_TODOS_ELES\\Temperatura.cs",
               "RelativeDocumentMoniker": "32_TODOS_ELES\\Temperatura.cs",
@@ -320,7 +337,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "CalculoDeIdade.cs",
               "DocumentMoniker": "C:\\Users\\danilo.drebelato\\source\\repos\\LogicaComCsharp\\LogicaComCsharp\\32_TODOS_ELES\\32_TODOS_ELES\\CalculoDeIdade.cs",
               "RelativeDocumentMoniker": "32_TODOS_ELES\\CalculoDeIdade.cs",
@@ -333,7 +350,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "CasaDeShow.cs",
               "DocumentMoniker": "C:\\Users\\danilo.drebelato\\source\\repos\\LogicaComCsharp\\LogicaComCsharp\\32_TODOS_ELES\\32_TODOS_ELES\\CasaDeShow.cs",
               "RelativeDocumentMoniker": "32_TODOS_ELES\\CasaDeShow.cs",
@@ -346,7 +363,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "AlgoritimoAeB.cs",
               "DocumentMoniker": "C:\\Users\\danilo.drebelato\\source\\repos\\LogicaComCsharp\\LogicaComCsharp\\32_TODOS_ELES\\32_TODOS_ELES\\AlgoritimoAeB.cs",
               "RelativeDocumentMoniker": "32_TODOS_ELES\\AlgoritimoAeB.cs",
@@ -359,7 +376,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "Bissexto.cs",
               "DocumentMoniker": "C:\\Users\\danilo.drebelato\\source\\repos\\LogicaComCsharp\\LogicaComCsharp\\32_TODOS_ELES\\32_TODOS_ELES\\Bissexto.cs",
               "RelativeDocumentMoniker": "32_TODOS_ELES\\Bissexto.cs",

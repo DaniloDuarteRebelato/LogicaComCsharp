@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\danilo.drebelato\\source\\repos\\LogicaComCsharp\\LogicaComCsharp\\Soma, Divisao, subtra\u00E7\u00E3o, multiplica\u00E7\u00E3o\\",
+  "WorkspaceRootPath": "C:\\Users\\danilo.drebelato\\Documents\\GitHub\\LogicaComCsharp\\Soma, Divisao, subtra\u00E7\u00E3o, multiplica\u00E7\u00E3o\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{61C2056E-89AA-4C96-96C9-4F6A2437015E}|Soma, Divisao, subtra\u00E7\u00E3o, multiplica\u00E7\u00E3o\\Soma, Divisao, subtra\u00E7\u00E3o, multiplica\u00E7\u00E3o.csproj|c:\\users\\danilo.drebelato\\source\\repos\\logicacomcsharp\\logicacomcsharp\\soma, divisao, subtra\u00E7\u00E3o, multiplica\u00E7\u00E3o\\soma, divisao, subtra\u00E7\u00E3o, multiplica\u00E7\u00E3o\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{61C2056E-89AA-4C96-96C9-4F6A2437015E}|Soma, Divisao, subtra\u00E7\u00E3o, multiplica\u00E7\u00E3o\\Soma, Divisao, subtra\u00E7\u00E3o, multiplica\u00E7\u00E3o.csproj|c:\\users\\danilo.drebelato\\documents\\github\\logicacomcsharp\\soma, divisao, subtra\u00E7\u00E3o, multiplica\u00E7\u00E3o\\soma, divisao, subtra\u00E7\u00E3o, multiplica\u00E7\u00E3o\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{61C2056E-89AA-4C96-96C9-4F6A2437015E}|Soma, Divisao, subtra\u00E7\u00E3o, multiplica\u00E7\u00E3o\\Soma, Divisao, subtra\u00E7\u00E3o, multiplica\u00E7\u00E3o.csproj|solutionrelative:soma, divisao, subtra\u00E7\u00E3o, multiplica\u00E7\u00E3o\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\danilo.drebelato\\source\\repos\\LogicaComCsharp\\LogicaComCsharp\\Soma, Divisao, subtra\u00E7\u00E3o, multiplica\u00E7\u00E3o\\Soma, Divisao, subtra\u00E7\u00E3o, multiplica\u00E7\u00E3o\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\danilo.drebelato\\Documents\\GitHub\\LogicaComCsharp\\Soma, Divisao, subtra\u00E7\u00E3o, multiplica\u00E7\u00E3o\\Soma, Divisao, subtra\u00E7\u00E3o, multiplica\u00E7\u00E3o\\Program.cs",
               "RelativeDocumentMoniker": "Soma, Divisao, subtra\u00E7\u00E3o, multiplica\u00E7\u00E3o\\Program.cs",
-              "ToolTip": "C:\\Users\\danilo.drebelato\\source\\repos\\LogicaComCsharp\\LogicaComCsharp\\Soma, Divisao, subtra\u00E7\u00E3o, multiplica\u00E7\u00E3o\\Soma, Divisao, subtra\u00E7\u00E3o, multiplica\u00E7\u00E3o\\Program.cs",
+              "ToolTip": "C:\\Users\\danilo.drebelato\\Documents\\GitHub\\LogicaComCsharp\\Soma, Divisao, subtra\u00E7\u00E3o, multiplica\u00E7\u00E3o\\Soma, Divisao, subtra\u00E7\u00E3o, multiplica\u00E7\u00E3o\\Program.cs",
               "RelativeToolTip": "Soma, Divisao, subtra\u00E7\u00E3o, multiplica\u00E7\u00E3o\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-26T14:32:36.873Z",
               "EditorCaption": ""

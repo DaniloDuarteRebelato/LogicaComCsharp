@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\danilo.drebelato\\source\\repos\\LogicaComCsharp\\LogicaComCsharp\\Numero_entre_20_e_90\\",
+  "WorkspaceRootPath": "C:\\Users\\danilo.drebelato\\Documents\\GitHub\\LogicaComCsharp\\Numero_entre_20_e_90\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{922ADC78-236C-4CE6-995F-5FC9898EAF5C}|Numero_entre_20_e_90\\Numero_entre_20_e_90.csproj|c:\\users\\danilo.drebelato\\source\\repos\\logicacomcsharp\\logicacomcsharp\\numero_entre_20_e_90\\numero_entre_20_e_90\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{922ADC78-236C-4CE6-995F-5FC9898EAF5C}|Numero_entre_20_e_90\\Numero_entre_20_e_90.csproj|c:\\users\\danilo.drebelato\\documents\\github\\logicacomcsharp\\numero_entre_20_e_90\\numero_entre_20_e_90\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{922ADC78-236C-4CE6-995F-5FC9898EAF5C}|Numero_entre_20_e_90\\Numero_entre_20_e_90.csproj|solutionrelative:numero_entre_20_e_90\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\danilo.drebelato\\source\\repos\\LogicaComCsharp\\LogicaComCsharp\\Numero_entre_20_e_90\\Numero_entre_20_e_90\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\danilo.drebelato\\Documents\\GitHub\\LogicaComCsharp\\Numero_entre_20_e_90\\Numero_entre_20_e_90\\Program.cs",
               "RelativeDocumentMoniker": "Numero_entre_20_e_90\\Program.cs",
-              "ToolTip": "C:\\Users\\danilo.drebelato\\source\\repos\\LogicaComCsharp\\LogicaComCsharp\\Numero_entre_20_e_90\\Numero_entre_20_e_90\\Program.cs",
+              "ToolTip": "C:\\Users\\danilo.drebelato\\Documents\\GitHub\\LogicaComCsharp\\Numero_entre_20_e_90\\Numero_entre_20_e_90\\Program.cs",
               "RelativeToolTip": "Numero_entre_20_e_90\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAADEAAAAAAAAAAAAgwD4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-27T11:42:37.847Z",
               "EditorCaption": ""

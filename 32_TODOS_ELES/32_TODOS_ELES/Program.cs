@@ -159,38 +159,38 @@ namespace _32_TODOS_ELES
                         NegativoPositivoOuZero.negativopositivoezero();
                         break;
                     case 21:
-
+                        numeroentre0e90.Numeroentre0e90();
                         break;
                     case 22:
-
+                        NumerosIguais.numerosiguais();
                         break;
                     case 23:
-
+                        ParesEnquanto.paresenquanto();
                         break;
                     case 24:
-
+                        Pecas.pecas();
                         break;
                     case 25:
-
+                        Pescador.pescador();
                         break;
                     case 26:
-
+                        PosicaoDeUmNumero.posicaodeumnumero();
                         break;
                     case 27:
-
+                        SalarioMinimo.salariominimo();
                         break;
                     case 28:
-
+                        Senha.senha();
                         break;
                     case 29:
-
+                        TodosMatematica.todosmatematica();
                         break;
                     case 30:
-
+                        Troco.troco();
                         break;
-
+                        
                     case 31:
-
+                        ValidarUmTriangulo.validarumtriangulo();
                         break;
 
 
